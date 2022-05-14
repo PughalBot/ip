@@ -28,6 +28,9 @@ module.exports = {
               DEFAULT: '#F66A0A',
               dark: '#A04100',
           },
+          blue: {
+              DEFAULT: '#1e3a8a',
+          },
           primary: {
               DEFAULT: '#24292E',
           },
