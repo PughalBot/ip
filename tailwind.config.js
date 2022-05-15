@@ -6,6 +6,9 @@ module.exports = {
         'none': 'none',
         'blur': 'blur(20px)',
       },
+      backgroundImage: {
+        'tiemabg': "url('/src/Timabgfinal.svg')"
+      }, 
       colors: {
           transparent: 'transparent',
           current: 'currentColor',
