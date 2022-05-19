@@ -16,7 +16,7 @@ const Login = () => {
             {/* <div className="justify-center w-full px-10">
                 <img src="https://cdn.discordapp.com/attachments/845617551412297748/974999383961641000/7.jpg" alt="LOGO"></img>
             </div> */}
-            <div className='w-full bg-cover bg-center flex-center flex-row bg-transparent max-w-md m-auto backdrop-blur-md bg-white/20 rounded-lg drop-shadow-2xl py-20 px-16'>
+            <div className='w-11/12 bg-cover bg-center flex-center flex-row bg-transparent max-w-md m-auto backdrop-blur-md bg-white/20 rounded-lg drop-shadow-2xl py-20 px-16'>
             <div className="flex flex-wrap justify-center">
                 <div className="w-44  px-1">
                     <img src="https://cdn.discordapp.com/attachments/845617551412297748/975003921556852746/GROUP_LOGO_6.png" alt="LOGO"/>
